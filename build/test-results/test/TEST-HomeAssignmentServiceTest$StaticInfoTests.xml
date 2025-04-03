@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HomeAssignmentServiceTest$StaticInfoTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-01-16T14:14:02" hostname="Resits-MacBook-Pro.local" time="0.044">
+  <properties/>
+  <testcase name="should throw exception when static info response is invalid()" classname="HomeAssignmentServiceTest$StaticInfoTests" time="0.015"/>
+  <testcase name="should return static info successfully()" classname="HomeAssignmentServiceTest$StaticInfoTests" time="0.017"/>
+  <testcase name="should throw exception when static info API returns 404()" classname="HomeAssignmentServiceTest$StaticInfoTests" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

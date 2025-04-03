@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wolt.dopc.controller.DeliveryOrderPriceControllerTest$ValidationErrors" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-01-16T14:14:08" hostname="Resits-MacBook-Pro.local" time="0.031">
+  <properties/>
+  <testcase name="should return bad request when user_lat exceeds bounds()" classname="com.wolt.dopc.controller.DeliveryOrderPriceControllerTest$ValidationErrors" time="0.007"/>
+  <testcase name="should return bad request when user_lon exceeds bounds()" classname="com.wolt.dopc.controller.DeliveryOrderPriceControllerTest$ValidationErrors" time="0.007"/>
+  <testcase name="should return bad request when cart_value is negative()" classname="com.wolt.dopc.controller.DeliveryOrderPriceControllerTest$ValidationErrors" time="0.006"/>
+  <testcase name="should return bad request when venue_slug is missing()" classname="com.wolt.dopc.controller.DeliveryOrderPriceControllerTest$ValidationErrors" time="0.007"/>
+  <system-out><![CDATA[2025-01-16T15:14:08.439+01:00  INFO 20036 --- [DeliveryOrderPriceCalculator] [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.wolt.dopc.controller.DeliveryOrderPriceControllerTest$ValidationErrors]: ValidationErrors does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-01-16T15:14:08.446+01:00  INFO 20036 --- [DeliveryOrderPriceCalculator] [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.wolt.dopc.DeliveryOrderPriceCalculatorApplication for test class com.wolt.dopc.controller.DeliveryOrderPriceControllerTest$ValidationErrors
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

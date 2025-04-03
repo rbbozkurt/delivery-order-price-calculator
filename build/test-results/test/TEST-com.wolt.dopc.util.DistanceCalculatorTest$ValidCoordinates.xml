@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wolt.dopc.util.DistanceCalculatorTest$ValidCoordinates" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-01-16T14:14:08" hostname="Resits-MacBook-Pro.local" time="0.006">
+  <properties/>
+  <testcase name="calculate distance between antipodal points()" classname="com.wolt.dopc.util.DistanceCalculatorTest$ValidCoordinates" time="0.001"/>
+  <testcase name="calculate distance with very small difference()" classname="com.wolt.dopc.util.DistanceCalculatorTest$ValidCoordinates" time="0.0"/>
+  <testcase name="calculate distance between two far apart points()" classname="com.wolt.dopc.util.DistanceCalculatorTest$ValidCoordinates" time="0.0"/>
+  <testcase name="calculate distance between two nearby points()" classname="com.wolt.dopc.util.DistanceCalculatorTest$ValidCoordinates" time="0.0"/>
+  <testcase name="calculate distance between two identical points()" classname="com.wolt.dopc.util.DistanceCalculatorTest$ValidCoordinates" time="0.0"/>
+  <testcase name="calculate distance between two points()" classname="com.wolt.dopc.util.DistanceCalculatorTest$ValidCoordinates" time="0.001"/>
+  <testcase name="calculate distance with maximum latitude and longitude()" classname="com.wolt.dopc.util.DistanceCalculatorTest$ValidCoordinates" time="0.0"/>
+  <testcase name="calculate distance between points across the equator()" classname="com.wolt.dopc.util.DistanceCalculatorTest$ValidCoordinates" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wolt.dopc.DeliveryOrderPriceCalculatorApplicationTests$EdgeCases" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-01-16T14:14:05" hostname="Resits-MacBook-Pro.local" time="1.797">
+  <properties/>
+  <testcase name="should handle zero values for coordinates()" classname="com.wolt.dopc.DeliveryOrderPriceCalculatorApplicationTests$EdgeCases" time="1.17"/>
+  <testcase name="should handle cart_value at minimum boundary()" classname="com.wolt.dopc.DeliveryOrderPriceCalculatorApplicationTests$EdgeCases" time="0.327"/>
+  <testcase name="should handle cart_value at maximum boundary()" classname="com.wolt.dopc.DeliveryOrderPriceCalculatorApplicationTests$EdgeCases" time="0.298"/>
+  <system-out><![CDATA[2025-01-16T15:14:05.150+01:00  INFO 20036 --- [DeliveryOrderPriceCalculator] [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.wolt.dopc.DeliveryOrderPriceCalculatorApplicationTests$EdgeCases]: EdgeCases does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-01-16T15:14:05.152+01:00  INFO 20036 --- [DeliveryOrderPriceCalculator] [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.wolt.dopc.DeliveryOrderPriceCalculatorApplication for test class com.wolt.dopc.DeliveryOrderPriceCalculatorApplicationTests$EdgeCases
+2025-01-16T15:14:05.222+01:00  INFO 20036 --- [DeliveryOrderPriceCalculator] [o-auto-1-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-16T15:14:05.223+01:00  INFO 20036 --- [DeliveryOrderPriceCalculator] [o-auto-1-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-01-16T15:14:05.224+01:00  INFO 20036 --- [DeliveryOrderPriceCalculator] [o-auto-1-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
