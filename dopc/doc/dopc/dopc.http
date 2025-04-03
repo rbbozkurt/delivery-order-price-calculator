@@ -1,0 +1,19 @@
+### Get Delivery Order Price - Valid Request
+GET http://localhost:8000/api/v1/delivery-order-price?venue_slug=test-venue&cart_value=1500&user_lat=60.17094&user_lon=24.93087
+Accept: application/json
+
+### Get Delivery Order Price - Missing Venue Slug
+GET http://localhost:8000/api/v1/delivery-order-price?cart_value=1500&user_lat=60.17094&user_lon=24.93087
+Accept: application/json
+
+### Get Delivery Order Price - Invalid Cart Value
+GET http://localhost:8000/api/v1/delivery-order-price?venue_slug=test-venue&cart_value=-100&user_lat=60.17094&user_lon=24.93087
+Accept: application/json
+
+### Get Delivery Order Price - Invalid Latitude
+GET http://localhost:8000/api/v1/delivery-order-price?venue_slug=test-venue&cart_value=1500&user_lat=100.0&user_lon=24.93087
+Accept: application/json
+
+### Get Delivery Order Price - Invalid Longitude
+GET http://localhost:8000/api/v1/delivery-order-price?venue_slug=test-venue&cart_value=1500&user_lat=60.17094&user_lon=200.0
+Accept: application/json
