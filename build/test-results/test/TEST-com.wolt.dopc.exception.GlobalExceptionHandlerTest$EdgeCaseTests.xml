@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.wolt.dopc.exception.GlobalExceptionHandlerTest$EdgeCaseTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-01-16T14:14:08" hostname="Resits-MacBook-Pro.local" time="0.003">
-  <properties/>
-  <testcase name="should handle MethodArgumentNotValidException with no errors()" classname="com.wolt.dopc.exception.GlobalExceptionHandlerTest$EdgeCaseTests" time="0.002"/>
-  <testcase name="should handle ConstraintViolationException with empty violations()" classname="com.wolt.dopc.exception.GlobalExceptionHandlerTest$EdgeCaseTests" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

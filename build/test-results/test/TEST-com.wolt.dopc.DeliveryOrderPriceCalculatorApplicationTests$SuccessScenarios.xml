@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.wolt.dopc.DeliveryOrderPriceCalculatorApplicationTests$SuccessScenarios" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-01-16T14:14:07" hostname="Resits-MacBook-Pro.local" time="0.52">
-  <properties/>
-  <testcase name="should return delivery order price successfully()" classname="com.wolt.dopc.DeliveryOrderPriceCalculatorApplicationTests$SuccessScenarios" time="0.52"/>
-  <system-out><![CDATA[2025-01-16T15:14:07.233+01:00  INFO 20036 --- [DeliveryOrderPriceCalculator] [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.wolt.dopc.DeliveryOrderPriceCalculatorApplicationTests$SuccessScenarios]: SuccessScenarios does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
-2025-01-16T15:14:07.235+01:00  INFO 20036 --- [DeliveryOrderPriceCalculator] [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.wolt.dopc.DeliveryOrderPriceCalculatorApplication for test class com.wolt.dopc.DeliveryOrderPriceCalculatorApplicationTests$SuccessScenarios
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

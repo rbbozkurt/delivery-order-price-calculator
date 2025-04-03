@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.wolt.dopc.exception.GlobalExceptionHandlerTest$MissingParamsTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-01-16T14:14:08" hostname="Resits-MacBook-Pro.local" time="0.0">
-  <properties/>
-  <testcase name="should handle MissingServletRequestParameterException()" classname="com.wolt.dopc.exception.GlobalExceptionHandlerTest$MissingParamsTests" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

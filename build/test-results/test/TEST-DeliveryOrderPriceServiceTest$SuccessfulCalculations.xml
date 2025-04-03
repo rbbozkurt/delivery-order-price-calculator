@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="DeliveryOrderPriceServiceTest$SuccessfulCalculations" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-01-16T14:13:59" hostname="Resits-MacBook-Pro.local" time="1.386">
-  <properties/>
-  <testcase name="should calculate delivery price for home-assignment-venue-helsinki successfully()" classname="DeliveryOrderPriceServiceTest$SuccessfulCalculations" time="1.386"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

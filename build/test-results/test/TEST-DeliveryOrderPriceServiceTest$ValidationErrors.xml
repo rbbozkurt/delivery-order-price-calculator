@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="DeliveryOrderPriceServiceTest$ValidationErrors" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-01-16T14:14:01" hostname="Resits-MacBook-Pro.local" time="0.019">
-  <properties/>
-  <testcase name="should throw exception for invalid cart value()" classname="DeliveryOrderPriceServiceTest$ValidationErrors" time="0.003"/>
-  <testcase name="should throw exception for invalid venue coordinates()" classname="DeliveryOrderPriceServiceTest$ValidationErrors" time="0.006"/>
-  <testcase name="should throw exception for unsupported delivery distance()" classname="DeliveryOrderPriceServiceTest$ValidationErrors" time="0.007"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
